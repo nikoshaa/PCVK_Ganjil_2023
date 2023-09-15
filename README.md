@@ -8,9 +8,9 @@ Computer Vision and Image Processing are interdisciplinary fields in computer sc
 
 ## Contributors
 
-[Wildan Hafidz Mauludin](https://github.com/nikoshaa)
-[Bima Bayu Saputra](https://github.com/BimaBayuUWUUU)
-[Sely Ruli Amanda](https://github.com/selyraa)
+- [Wildan Hafidz Mauludin](https://github.com/nikoshaa)
+- [Bima Bayu Saputra](https://github.com/BimaBayuUWUUU)
+- [Sely Ruli Amanda](https://github.com/selyraa)
 
 ## License
 
